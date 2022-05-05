@@ -9,8 +9,8 @@
   </div>
   
   <div>
-    <h5>💻 I am a self taught Full Stack Developer and E-commerce Developer</h5>
-    <h5>🌱 I’m currently learning Database and framework(react & Laravel)</h5>
+    <h5>💻 I am a self taught Web Developer </h5>
+    <h5>🌱 I’m currently learning Database deeply and framework(react & Laravel)</h5>
     <h5>📝 I have a strong interest in Data Science and Artificial Intelligence</h5>
     <h5>💖 Interested in Data</h5>
     <h5>🤝 I’m looking for help with internship & intern  </h5>
