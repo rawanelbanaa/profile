@@ -3,15 +3,22 @@
 <h3 align="center">A web developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawanelbanaa&label=Profile%20views&color=0e75b6&style=flat" alt="rawanelbanaa" /> </p>
-
-- 🌱 I’m currently learning **Database and framework(react & Laravel)**
-
-- 🤝 I’m looking for help with **internship & intern**
-
-- 💬 Ask me about **web developer**
-
-- 📫 How to reach me **rawanelbana184@gmail.com**
-
+<div>
+  <div>
+            <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="35%" />
+  </div>
+  
+  <div>
+    <h5>💻 I am a self taught Full Stack Developer and E-commerce Developer</h5>
+    <h5>🌱 I’m currently learning Database and framework(react & Laravel)</h5>
+    <h5>📝 I have a strong interest in Data Science and Artificial Intelligence</h5>
+    <h5>💖 Interested in Data</h5>
+    <h5>🤝 I’m looking for help with internship & intern  </h5>
+    <h5>🌟 Main languages: Python. </h5>
+    <h5>💬 Ask me about anything, I love to answer!</h5>
+    <h5>📫 How to reach me "rawanelbana184@gmail.com" </h5>
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
