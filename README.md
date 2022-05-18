@@ -17,7 +17,8 @@
     <h5>🤝 I’m looking for help with internship & intern  </h5>
     <h5>🌟 Main languages: Python. </h5>
     <h5>💬 Ask me about anything, I love to answer!</h5>
-    <h5>📫 How to reach me "rawanelbana184@gmail.com" </h5>
+    <h5>📫 How to reach me <a href="mailto:rawanelbana184@gmail.com ">rawanelbana184@gmail.com </a></h5>
+
   </div>
 </div>
 
@@ -29,7 +30,8 @@
 <a href="https://linkedin.com/in/rawan_ahmed_elbana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawan_ahmed_elbana" height="30" width="40" /></a>
   <!---
 <a href="https://gdsc.community.dev/u/mj2fxf/#/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawan_ahmed_elbana" height="30" width="40" /></a>-->
-</p>
+<a href="https://www.leetcode.com/rawan_elbanaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rawan_elbanaa" height="30" width="40" /></a>
+  </p>
 
 <hr>
 
