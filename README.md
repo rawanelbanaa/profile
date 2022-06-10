@@ -13,11 +13,11 @@
     <h5>🤹‍♀️ I'm PR @GDGDamahour </h5>
     <h5>🌱 I’m currently learning Database deeply and framework(react & Laravel)</h5>
     <h5>📝 I have a strong interest in Data Science and Artificial Intelligence</h5>
-    <h5>💖 Interested in Data</h5>
-    <h5>🤝 I’m looking for help with internship & intern  </h5>
+<!--     <h5>💖 Interested in Data</h5> -->
+<!--     <h5>🤝 I’m looking for help with internship & intern  </h5> -->
     <h5>🌟 Main languages: Python. </h5>
     <h5>💬 Ask me about anything, I love to answer!</h5>
-    <h5>📫 How to reach me <a href="mailto:rawanelbana184@gmail.com ">rawanelbana184@gmail.com </a></h5>
+<!--     <h5>📫 How to reach me <a href="mailto:rawanelbana184@gmail.com ">rawanelbana184@gmail.com </a></h5> -->
 
   </div>
 </div>
